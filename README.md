@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**deepraj1729/deepraj1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. I'm currently working on a [Self-Driving Car](https://github.com/deepraj1729/Self-Driving-Cars) project and A `Customizable ChatBot Framework`, [TChatBot](https://github.com/deepraj1729/TChatBot) which will enable creating ChatBots faster which trains with any `architecture` and deploys to `Tensorflow-Serving` callable with `APIs`.
 
-Here are some ideas to get you started:
+#### Some of my key skills include:- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python`, `C++`, `Django`, `Flask`, `REST APIs`, `Command-Line-Interfaces`, `Tensorflow`, `Pytorch`, `React JS`, `Docker`, `Git`
+
+#### Want to connect with me?
+- 🔭 Check my Repositories and create `Pull Requests` for contributing and if u like it, hit that ⭐ button alongside the repository
+- 🌱 A New `AI Project` idea in mind? Create your repo and add me as `Collaborator` with my `Username`: [deepraj1729](https://github.com/deepraj1729/)
+- 👯 Social media links? Here are some of them :- Instagram: []()  Twitter:[] ()   Facebook: []()  *`Though I'm not that socially active`*
+- 🤔 Email? [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
+
+#### Have a great day ☺️
+
+
