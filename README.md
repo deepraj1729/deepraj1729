@@ -9,8 +9,11 @@ I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. I'm cur
 #### Want to connect with me?
 - 🔭 Check my Repositories and create `Pull Requests` for contributing and if u like it, hit that ⭐ button alongside the repository
 - 🌱 A New `AI Project` idea in mind? Create your repo and add me as `Collaborator` with my `Username`: [deepraj1729](https://github.com/deepraj1729/)
-- 👯 Social media links? Here are some of them :- Instagram: []()  Twitter:[] ()   Facebook: []()  *`Though I'm not that socially active`*
-- 🤔 Email? [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
+- 👯 Social media links? Here are some of them :-  *`Though I'm not that socially active`*
+  - Instagram: [@deepraj_1729](https://www.instagram.com/deepraj_1729)  
+  - Twitter: [@BaidyaDeepraj](https://twitter.com/BaidyaDeepraj)  
+  - Facebook: [@deepraj1729](https://www.facebook.com/deepraj1729)  
+- 🤔 Email? id: [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
 
 #### Have a great day ☺️
 
