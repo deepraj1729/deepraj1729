@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
 
 I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. I'm currently working on a [Self-Driving Car](https://deepraj1729.github.io/Self-Driving-Cars) project and A `Customizable ChatBot Framework`, [TChatBot](https://deepraj1729.github.io/TChatBot) which will enable creating ChatBots faster which trains with any `architecture` and deploys to `Tensorflow-Serving` callable with `APIs`.
 
