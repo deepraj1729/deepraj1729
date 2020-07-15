@@ -17,6 +17,8 @@ I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. I'm cur
 - 📫 Email id?
   - <img src="https://img.icons8.com/color/48/000000/gmail.png"  height = "15" width = "16"/> Gmail: [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
 
+ [![deepraj1729's github stats](https://github-readme-stats.vercel.app/api?username=deepraj1729)](https://github.com/deepraj1729/github-readme-stats)
+
 #### Have a great day ☺️
 
 
