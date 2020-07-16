@@ -1,6 +1,7 @@
 ### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
 
 I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. 
+
 Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you like it.
 
 #### Some of my key skills include:- 
@@ -8,13 +9,13 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 `Python`, `C`, `C++`, `Django`, `Flask`, `REST APIs`, `Command-Line-Interfaces`, `Tensorflow`, `Pytorch`, `React JS`, `Docker`, `Git`, `AWS`
 
 #### Know more about me:-
-- 💻 `Deep Learning` and `AI` developer, doing my undergrad ***`(CSE)`*** from **National Institute of Technology, Agartala**.
+- 💻 `Deep Learning` and `AI` developer, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
 - ⚡️ I’m also a **`technical mentor`** at [@GirlScript-Agartala](https://github.com/GirlScript-Agartala)
 - 🤖 Creator of a `Customizable ChatBot Framework`, [TChatBot](https://deepraj1729.github.io/TChatBot), using **Tensorflow and Flask REST APIs**.
 - 🥇 I'm also an **`Open-Source Contributor`** and would love a colab on **Open Source Projects**.
 - 🔭 I’m currently working on mastering skills of `DS,Algo and Data Science`.
 - 👨‍💻 I’m also a part-time `Freelancer`.
-- 🤔 Favourite `hobby`:- ***`Playing with numbers`*** and coming up with awesome ***`Quick Calculation`*** tricks.
+- 🤔 Favourite ***`hobby`***:- `Playing with numbers` and coming up with awesome `Quick Calculation` tricks.
 - 🎶 Music genres I prefer: `Pop`, `folk-pop`, `pop-rock`, `hip-hop` 
 - ⚡ Fun fact: I'm a **`sketch artist`** consisting works in `oil` and `glass` paintings 🎨
 - 💬 Ask me anything about **`Deep Learning and AI`** in general 
