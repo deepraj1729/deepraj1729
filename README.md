@@ -1,11 +1,3 @@
-![Github](https://img.shields.io/twitter/url?label=deepraj1729&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fdeepraj1729%2F) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepraj1729) 
-![linkedin](https://img.shields.io/twitter/url?label=deep1729&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeep1729%2F) 
-![instagram](https://img.shields.io/twitter/url?label=deepraj_1729&logo=instagram&url=https%3A%2F%2Fwww.instagram.com%2Fdeepraj_1729%2F)
-![twitter](https://img.shields.io/twitter/url?label=BaidyaDeepraj&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBaidyaDeepraj)
-![facebook](https://img.shields.io/twitter/url?label=deepraj1729&logo=facebook&url=https%3A%2F%2Fwww.facebook.com%2Fdeepraj1729)
-![PyPI](https://img.shields.io/twitter/url?label=PyPi-Deep1729&logo=pypi&style=social&url=https%3A%2F%2Fpypi.org%2Fuser%2FDeep1729%2F) 
-
 ### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
 
 I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. 
@@ -37,5 +29,13 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
  <img src="https://github-readme-stats.vercel.app/api?username=deepraj1729&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
+## Social Links:
+![Github](https://img.shields.io/twitter/url?label=deepraj1729&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fdeepraj1729%2F) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepraj1729) 
+![linkedin](https://img.shields.io/twitter/url?label=deep1729&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeep1729%2F) 
+![instagram](https://img.shields.io/twitter/url?label=deepraj_1729&logo=instagram&url=https%3A%2F%2Fwww.instagram.com%2Fdeepraj_1729%2F)
+![twitter](https://img.shields.io/twitter/url?label=BaidyaDeepraj&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBaidyaDeepraj)
+![facebook](https://img.shields.io/twitter/url?label=deepraj1729&logo=facebook&url=https%3A%2F%2Fwww.facebook.com%2Fdeepraj1729)
+![PyPI](https://img.shields.io/twitter/url?label=PyPi-Deep1729&logo=pypi&style=social&url=https%3A%2F%2Fpypi.org%2Fuser%2FDeep1729%2F) 
 
 #### Have a great day ☺️
