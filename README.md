@@ -12,7 +12,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 - 💻 `Deep Learning` and `AI` developer, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
 - ⚡️ **`Technical mentor`** at [@GirlScript-Agartala](https://github.com/GirlScript-Agartala)
 - 🤖 Creator of a `Customizable ChatBot Framework`, [TChatBot](https://deepraj1729.github.io/TChatBot), using **Tensorflow and Flask REST APIs**.
-- 🥇 An **`Open-Source Contributor`** and would love a colab on **Open Source Projects**.
+- 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
 - 🔭 Currently working on mastering skills of `DS,Algo and Data Science`.
 - 👨‍💻 I’m also a part-time `Freelancer`.
 - 🤔 Favourite ***`hobby`***:- `Playing with numbers` and coming up with awesome `Quick Calculation` tricks.
