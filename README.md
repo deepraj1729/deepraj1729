@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
+### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">, I'm Deepraj
 
 I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. 
 
@@ -27,7 +27,48 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 - 💡 A New `AI Project` idea in mind? Create your repo and add me as `Collaborator` with my `Username`: [deepraj1729](https://github.com/deepraj1729/)
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=deepraj1729&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepraj1729&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+
+<p>
+  <a href="https://github.com/deepraj1729/TChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/Self-Driving-Cars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=Self-Driving-Cars&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/deepraj1729/EasyOCR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=EasyOCR&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/TChatBot-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot-API&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/deepraj1729/AstroML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=AstroML&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/yplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=yplate&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/deepraj1729/DeepML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=DeepML&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/MetaML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=MetaML&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
