@@ -5,66 +5,66 @@ I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer.
 Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you like it.
 
 #### Programming Languages I use:-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br>
 
 #### Web Frameworks and tools I use:-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br>
 
 #### ML Libraries, Frameworks and tools I use:-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="40" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4"></code>
-<code><img height="40" src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="40" width="70" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
-<code><img height="40" width="70" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png"></code>
-<code><img height="40" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>
-<code><img height="40" src="https://avatars0.githubusercontent.com/u/33467679?s=200&v=4"></code>
-<code><img height="40" src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="25" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="25" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4"></code>
+<code><img height="25" src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="25" width="70" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
+<code><img height="25" width="70" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png"></code>
+<code><img height="25" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>
+<code><img height="25" src="https://avatars0.githubusercontent.com/u/33467679?s=200&v=4"></code>
+<code><img height="25" src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4"></code>
 <br>
 
 #### OS, Software tools and Customization tools used:-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://avatars3.githubusercontent.com/u/4604537?s=200&v=4"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/600px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://avatars3.githubusercontent.com/u/1533020?s=200&v=4"></code>
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/426196?s=200&v=4"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://avatars3.githubusercontent.com/u/4604537?s=200&v=4"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/600px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://avatars3.githubusercontent.com/u/1533020?s=200&v=4"></code>
+<code><img height="25" src="https://avatars1.githubusercontent.com/u/426196?s=200&v=4"></code>
 
 #### Cloud Platforms and Services I use:-
-<code><img height="40" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png"></code>
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSh3efSTI9IQeFXtGIML4qoeWHU1OnzR2pkZA&usqp=CAU"></code>
-<code><img height="40" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png"></code>
-<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png"></code>
-<code><img height="40" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAt7-u6GJMlw/company-logo_200_200/0?e=2159024400&v=beta&t=4CYxl7atZ0Yn9lJko6w02yIywYQiLr9hrQcH3cF4GDI"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/2000px-Dropbox_Icon.svg.png"></code>
-<code><img height="40" src="https://teaching.cambriancollege.ca/wp-content/uploads/2020/03/one-drive-logo.png"></code>
-<code><img height="40" src="https://avatars3.githubusercontent.com/u/3571983?s=280&v=4"></code>
-<code><img height="40" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
-<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png"></code>
+<code><img height="25" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png"></code>
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSh3efSTI9IQeFXtGIML4qoeWHU1OnzR2pkZA&usqp=CAU"></code>
+<code><img height="25" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png"></code>
+<code><img height="25" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png"></code>
+<code><img height="25" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAt7-u6GJMlw/company-logo_200_200/0?e=2159024400&v=beta&t=4CYxl7atZ0Yn9lJko6w02yIywYQiLr9hrQcH3cF4GDI"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/2000px-Dropbox_Icon.svg.png"></code>
+<code><img height="25" src="https://teaching.cambriancollege.ca/wp-content/uploads/2020/03/one-drive-logo.png"></code>
+<code><img height="25" src="https://avatars3.githubusercontent.com/u/3571983?s=280&v=4"></code>
+<code><img height="25" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
+<code><img height="25" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png"></code>
 
 #### Know more about me:-
 - 💻 `Deep Learning` and `AI` developer, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
