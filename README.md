@@ -68,7 +68,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 #### Know more about me:-
 - 💻 `Deep Learning` and `AI` developer, doing my undergrad `(CSE)` from **National Institute of Technology, Agartala**.
-- ⚡️ **Machine Learning** `CORE member`[@DSC-NITA](https://github.com/DSC-NITA), **`Technical mentor`**[@GirlScript-Agartala](https://github.com/GirlScript-Agartala)
+- ⚡️ **Machine Learning** `ML LEAD`[@DSC-NITA](https://github.com/DSC-NITA), **`Technical mentor`**[@GirlScript-Agartala](https://github.com/GirlScript-Agartala)
 - 💼 Previously worked as a **`ML developer Intern`** at **Karmaalab Pvt Ltd.** and **Digital India** under **`Microsoft`**.
 - 🤖 Creator of a `Customizable ChatBot Framework`, [TChatBot](https://deepraj1729.github.io/TChatBot), using **Tensorflow and Flask REST APIs**.
 - 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
@@ -79,6 +79,8 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 - ⚡ Fun fact: I'm a **`sketch artist`** consisting works in `oil` and `glass` paintings 🎨
 - 💬 Ask me anything about **`Deep Learning and AI`** in general 
 - 📧 Email id? [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
+- 📄  Link to my [RESUME](https://media-exp1.licdn.com/dms/document/C4E2DAQGcn5NINYS-XQ/profile-treasury-document-pdf-analyzed/0/1595493227798?e=1608602400&v=beta&t=FdDCP9eqBdh-rHNiS7D4pXWtCNSB4E_1PXTb7e2cDng)
+
   <br>
 
 #### Open-Source Contribution:-
