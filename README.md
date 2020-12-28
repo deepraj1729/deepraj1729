@@ -79,7 +79,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 - ⚡ Fun fact: I'm a **`sketch artist`** consisting works in `oil` and `glass` paintings 🎨
 - 💬 Ask me anything about **`Deep Learning and AI`** in general 
 - 📧 Email id? [bdeeprajrkm1@gmail.com](bdeeprajrkm1@gmail.com)
-- 📄  Link to my [RESUME](https://media-exp1.licdn.com/dms/document/C4E2DAQGcn5NINYS-XQ/profile-treasury-document-pdf-analyzed/0/1595493227798?e=1608602400&v=beta&t=FdDCP9eqBdh-rHNiS7D4pXWtCNSB4E_1PXTb7e2cDng)
+- 📄  Link to my [RESUME](https://drive.google.com/file/d/1mN2AHxTlXZ8mL7DXWp1GAt5c4FuYtBuO/view)
 
   <br>
 
