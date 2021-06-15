@@ -1,3 +1,8 @@
+<!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepraj1729.deepraj1729)
+[![GitHub followers](https://img.shields.io/github/followers/deepraj1729.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deepraj1729?tab=followers)
+-->
+
 ### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">, I'm Deepraj
 
 I'm a `Deep Learning` and `AI` Developer alongside a `Python` Developer. 
